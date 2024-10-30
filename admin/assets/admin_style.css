@@ -1,0 +1,218 @@
+.clearfix {
+  clear: both;
+}
+
+.long_text_input {
+  width:50em;
+}
+
+.mid_text_input {
+  width: 20em;
+  max-width: 33vw;
+}
+
+.trmi_col{
+  float:left;
+}
+
+.trmi_col_1{
+  width: 8.33333%;
+}
+
+.trmi_col_2{
+  width: 16.66667%;
+}
+
+.trmi_col_3{
+  width: 25%;
+}
+
+.trmi_col_4{
+  width: 33.33333%;
+}
+
+.trmi_col_5{
+  width: 41.16667%;
+}
+
+.trmi_col_6{
+  width: 50%;
+}
+
+.trmi_col_7{
+  width: 58.33333%;
+}
+
+.trmi_col_8{
+  width: 66.66667%;
+}
+
+.trmi_col_9{
+  width: 75%;
+}
+
+.trmi_col_10{
+  width: 83.33333%;
+}
+
+.trmi_col_11{
+  width: 91.16667%;
+}
+
+.trmi_col_12{
+  width: 100%;
+}
+
+#trmi_map {
+  margin-top:20px;
+}
+
+@media(max-width:767px){
+  .trmi_xs_col_1{
+    width: 8.33333%;
+  }
+
+  .trmi_xs_col_2{
+    width: 16.66667%;
+  }
+
+  .trmi_xs_col_3{
+    width: 25%;
+  }
+
+  .trmi_xs_col_4{
+    width: 33.33333%;
+  }
+
+  .trmi_xs_col_5{
+    width: 41.16667%;
+  }
+
+  .trmi_xs_col_6{
+    width: 50%;
+  }
+
+  .trmi_xs_col_7{
+    width: 58.33333%;
+  }
+
+  .trmi_xs_col_8{
+    width: 66.66667%;
+  }
+
+  .trmi_xs_col_9{
+    width: 75%;
+  }
+
+  .trmi_xs_col_10{
+    width: 83.33333%;
+  }
+
+  .trmi_xs_col_11{
+    width: 91.16667%;
+  }
+
+  .trmi_xs_col_12{
+    width: 100%;
+  }
+}
+
+@media(min-width:992px){
+  .trmi_md_col_1{
+    width: 8.33333%;
+  }
+
+  .trmi_md_col_2{
+    width: 16.66667%;
+  }
+
+  .trmi_md_col_3{
+    width: 25%;
+  }
+
+  .trmi_md_col_4{
+    width: 33.33333%;
+  }
+
+  .trmi_md_col_5{
+    width: 41.16667%;
+  }
+
+  .trmi_md_col_6{
+    width: 50%;
+  }
+
+  .trmi_md_col_7{
+    width: 58.33333%;
+  }
+
+  .trmi_md_col_8{
+    width: 66.66667%;
+  }
+
+  .trmi_md_col_9{
+    width: 75%;
+  }
+
+  .trmi_md_col_10{
+    width: 83.33333%;
+  }
+
+  .trmi_md_col_11{
+    width: 91.16667%;
+  }
+
+  .trmi_md_col_12{
+    width: 100%;
+  }
+}
+
+@media(min-width:1201px){
+  .trmi_lg_col_1{
+    width: 8.33333%;
+  }
+
+  .trmi_lg_col_2{
+    width: 16.66667%;
+  }
+
+  .trmi_lg_col_3{
+    width: 25%;
+  }
+
+  .trmi_lg_col_4{
+    width: 33.33333%;
+  }
+
+  .trmi_lg_col_5{
+    width: 41.16667%;
+  }
+
+  .trmi_lg_col_6{
+    width: 50%;
+  }
+
+  .trmi_lg_col_7{
+    width: 58.33333%;
+  }
+
+  .trmi_lg_col_8{
+    width: 66.66667%;
+  }
+
+  .trmi_lg_col_9{
+    width: 75%;
+  }
+
+  .trmi_lg_col_10{
+    width: 83.33333%;
+  }
+
+  .trmi_lg_col_11{
+    width: 91.16667%;
+  }
+
+  .trmi_lg_col_12{
+    width: 100%;
+  }
+}
